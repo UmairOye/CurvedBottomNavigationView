@@ -75,7 +75,6 @@ class MainActivity : AppCompatActivity() {
                 3 -> mainBinding.textView.text = getString(R.string.profile)
                 4 -> mainBinding.textView.text = getString(R.string.share)
             }
-
         }
 
 
