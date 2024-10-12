@@ -1,5 +1,4 @@
 ## Demo
-
 <video src='https://github.com/UmairOye/CurvedBottomNavigationView/blob/master/demo/VID-20241012-WA0018.mp4' width=180/>
 
 ### Setup in XML
