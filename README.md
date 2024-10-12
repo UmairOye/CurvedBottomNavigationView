@@ -1,5 +1,6 @@
 ### Demo
-<video src="https://github.com/UmairOye/CurvedBottomNavigationView/master/demo/VID-20241012-WA0018.mp4"></video>
+<video src="https://github.com/user-attachments/assets/65959722-821b-4ac5-997e-39f9bfdb3689"></video>
+
 ### Setup in XML
 Add `CurvedBottomNavigationView` in your layout xml file.
 ```xml
