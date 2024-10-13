@@ -74,7 +74,7 @@ To listen whenever the menu item is clicked you can pass a lambda to `setOnMenuI
 ```
 
 ### Handling Navigaiton with Jetpack Navigation
-If you are like me and :heart: Jetpack then there is a method called `setupWithNavController()`
+If you are like Jetpack then there is a method called `setupWithNavController()`
  that accepts `NavController` and will handle the navigaiton for you. Just don't forget to pass the `id` of the destination when you are creating `CurvedModel`.
 
 **Note:** Make sure the home destination in your navigation graph corresponds to the `activeIndex` that you have passed to `setMenuItems()`.
