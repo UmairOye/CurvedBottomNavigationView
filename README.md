@@ -4,12 +4,12 @@
 ### Setup in XML
 Add `CurvedBottomNavigationView` in your layout xml file.
 ```xml
-<com.ub.bottomnavigationview.CustomBottomView
+ <com.ub.bottomnavigationview.CustomBottomView
         android:id="@+id/nav_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:cbn_bg="@color/black"
-        app:cbn_dotSize="@dimen/_3sdp"
+        app:cbn_bg="@color/white"
+        app:cbn_dotSize="@dimen/_4sdp"
         app:cbn_textColor="@color/gray"
         app:cbn_dotColor ="@color/green"
         app:cbn_textSize ="@dimen/_8sdp"
