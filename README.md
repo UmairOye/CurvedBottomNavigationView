@@ -109,5 +109,5 @@ app:cbn_dotSize | active dot size of the Curved Bottom Navigation | `@dimen/_3sd
 The height of the `CurvedBottomNavigationView` is fixed to `56dp` and the size of the `FloatingActionButton` is also fixed to `56dp` for now.
 Also the `AnimatedVectorDrawable` animation duration is taken as it is defined in the xml file.
 
-### Credit
+### Credits
 All credit goes to [Suson Thapa](https://github.com/susonthapa/curved-bottom-navigation) for creating this beautiful library. I just added some features to fit my requirements. If you like this project, you should definitely check out the original library as well.
