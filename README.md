@@ -1,5 +1,5 @@
 ### Demo
-<video src="https://github.com/user-attachments/assets/65959722-821b-4ac5-997e-39f9bfdb3689"></video>
+<video src="https://github.com/user-attachments/assets/80dcb2b0-6f8e-4c68-b0ce-b5c2ed089cc3"></video>
 
 ### Setup in XML
 Add `CurvedBottomNavigationView` in your layout xml file.
