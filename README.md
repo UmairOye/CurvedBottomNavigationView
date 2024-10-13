@@ -111,3 +111,8 @@ Also the `AnimatedVectorDrawable` animation duration is taken as it is defined i
 
 ### Credits
 All credit goes to [Suson Thapa](https://github.com/susonthapa/curved-bottom-navigation) for creating this beautiful library. I just added some features to fit my requirements. If you like this project, you should definitely check out the original library as well.
+
+## Don't Forget to Star ⭐
+If you found this project useful or had fun exploring it, please consider giving it a star. It's a great way to show your appreciation and it puts a smile on my face! 😊🌟
+
+
